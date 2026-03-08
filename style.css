@@ -1,4 +1,10 @@
-.frame {
+html, body {
+  height: 100dvh; /* Force the background to be exactly the screen height */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  .frame {
   width: 100%;
   height: 1000px;
   overflow: hidden;
