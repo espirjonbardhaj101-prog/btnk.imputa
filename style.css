@@ -13,3 +13,10 @@
   position: relative;
   top: -55px;
 }
+.frame-class {
+  width: 100%;
+  height: calc(100dvh - 55px); 
+  margin-top: 55px; 
+  border: none;
+  display: block;
+}
