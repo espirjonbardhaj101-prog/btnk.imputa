@@ -1,18 +1,15 @@
 .frame {
   width: 100%;
-  height: 100%;
+  height: 600px;
   overflow: hidden;
 }
 
-.frame-class {
+.frame iframe {
   width: 100%;
-  height: calc(100% - 55px); 
-  margin-top: 55px; 
+  height: 800px;
   border: none;
-  display: block;
 }
 .frame iframe {
   position: relative;
   top: -55px;
 }
-
