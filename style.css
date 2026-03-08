@@ -19,3 +19,4 @@ html, body {
   position: relative;
   top: -55px;
 }
+  margin-bottom: env(safe-area-inset-bottom);
