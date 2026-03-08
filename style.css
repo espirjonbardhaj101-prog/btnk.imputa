@@ -1,12 +1,12 @@
 .frame {
   width: 100%;
-  height: 600px;
+  height: 1000px;
   overflow: hidden;
 }
 
 .frame iframe {
   width: 100%;
-  height: 800px;
+  height: 1000px;
   border: none;
 }
 .frame iframe {
