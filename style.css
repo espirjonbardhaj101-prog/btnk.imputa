@@ -4,15 +4,6 @@
   overflow: hidden;
 }
 
-.frame iframe {
-  width: 100%;
-  height: 100dhv;
-  border: none;
-}
-.frame iframe {
-  position: relative;
-  top: -55px;
-}
 .frame-class {
   width: 100%;
   height: calc(100dvh - 55px); 
@@ -20,3 +11,8 @@
   border: none;
   display: block;
 }
+.frame iframe {
+  position: relative;
+  top: -55px;
+}
+
